@@ -1,14 +1,15 @@
 # quoteapp
 
 
-![q10](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/bd53193c-dad3-4a2e-aa62-bc83d761a05c)
-![q9](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/4688b594-7ad8-4798-b275-0f95e68aa97e)
-![q8](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/26773407-98b5-4f3f-984a-d9fe4a7a7cf1)
-![q7](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/3b13cb69-7408-4e12-88bc-278c597b1238)
-![q6](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/44d1d9d5-7e9c-48b5-b5c4-77706abdaa40)
-![q5](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/fbe31311-91c5-43ae-b4e1-1ad323548bd8)
-![q4](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/c70eaca2-db5e-479f-ae4c-eca3ad8c9aaa)
-![q3](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/76edfced-53a1-4f01-b3f5-8d354591ba04)
-![q2](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/1d4423d0-21c7-4928-85ea-ed17acf2174e)
-![q1](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/4b061734-a9b6-4ccf-be9c-231854238739)
-![q11](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/5cedbf3f-7f72-4e07-8ea8-4b007e607a1a)
+![q1](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/1db91e4d-530a-4dcc-b1ad-2d434c49d21c)
+
+![q2](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/44edeb94-49f5-4e7c-bc0a-4d42be497608)
+![q3](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/7b86bd82-0050-4c24-a9b0-2a5628fa4a0c)
+![q4](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/6b03bc68-4d11-4cde-968e-6dc8fda0169a)
+![q5](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/627407df-5422-4d1f-aeec-9aa434994a25)
+![q6](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/1604a4a8-1058-493e-8e86-b9e29b841216)
+![q7](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/0c7598bd-5e39-4ad2-8d97-76348253221d)
+![q8](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/67c00668-7880-4b19-8c4b-2eba1828b43a)
+![q9](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/60515b71-fe71-4a44-83d7-e37e00605b9c)
+![q10](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/55bd90ed-626a-4740-9d95-8297ec777bbc)
+![q11](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/a620af4c-1ea1-4cd4-b936-7ea6d1e3e381)
