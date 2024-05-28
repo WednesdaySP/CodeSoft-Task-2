@@ -1,7 +1,6 @@
 # quoteapp
 
-
-![q1](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/1db91e4d-530a-4dcc-b1ad-2d434c49d21c)
+img(src="https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/1db91e4d-530a-4dcc-b1ad-2d434c49d21c" width="300")
 
 ![q2](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/44edeb94-49f5-4e7c-bc0a-4d42be497608)
 ![q3](https://github.com/WednesdaySP/CodeSoft-QuotesApp/assets/122176467/7b86bd82-0050-4c24-a9b0-2a5628fa4a0c)
